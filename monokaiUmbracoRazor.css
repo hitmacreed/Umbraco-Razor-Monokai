@@ -1,0 +1,90 @@
+.ace-chrome {
+    background-color: #1e272c;
+    color: white !important;
+}
+
+.ace-chrome .ace_cursor {
+    color: white;
+}
+
+.ace-chrome .ace_storage,
+.ace-chrome .ace_keyword,
+.ace-chrome .ace_meta.ace_tag {
+    color: #F92672 !important;
+}
+
+.ace-chrome .ace_entity.ace_other.ace_attribute-name {
+    color: #66D9EF;
+}
+
+.ace-chrome .ace_string {
+    color: #A6E22E;
+}
+
+.ace-chrome .ace_keyword.ace_operator {
+    color: #FD971F;
+}
+
+.ace-chrome .ace_marker-layer .ace_active-line {
+    background: rgba(0, 0, 0) !important;
+}
+
+.ace_punctuation.ace_short.ace_razor {
+    color: #FD971F !important;
+    background: transparent;
+}
+
+.ace-chrome .ace_razor {
+    background: transparent;
+    color: #FD971F !important;
+}
+.ace-chrome .ace_marker-layer .ace_selected-word {
+    background: transparent;
+    border: 1px solid rgb(200, 200, 250);
+}
+.ace-chrome .ace_support.ace_function {
+    color: #F92672;
+}
+
+.ace-chrome .ace_constant.ace_language {
+    color: #A6E22E;
+}
+
+.ace-chrome .ace_constant.ace_numeric {
+    color: #66D9EF;
+}
+
+.CodeMirror pre {
+    background: #1e272c;
+    color: white;
+}
+
+.cm-s-default .cm-def {
+    color: #FD971F;
+}
+
+cm-s-default .cm-atom {
+    color: #FD971F;
+}
+
+.cm-s-default .cm-string {
+    color: #A6E22E;
+}
+
+.cm-s-default .cm-number {
+    color: #A6E22E;
+}
+
+cm-s-default .cm-qualifier {
+    color: #F92672;
+}
+
+.cm-s-default .cm-keyword {
+    color: #66D9EF;
+}
+
+.CodeMirror div.CodeMirror-cursor {
+    border-left: 1px solid white;
+}
+
+
